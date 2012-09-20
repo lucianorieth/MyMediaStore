@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db>
+  <row>
+    <movie>
+      <id>1</id>
+      <title>Origem da vida</title>
+      <sinopse></sinopse>
+      <capa>E:\Videos\Organizados\Documentários\Umaverdadeincondicional.jpg</capa>
+      <uri>E:\Videos\Organizados\Documentários\Uma verdade incondicional.avi</uri>
+      <type>Filme</type>
+      <status></status>
+      <categories>Documentário</categories>
+      <format>.avi</format>
+    </movie>
+    <movie>
+      <id>2</id>
+      <title>Meu querido vira lata</title>
+      <sinopse>Neste filme Meu Querido Vira-Lata download Sanny (John-Paul Howard) é um menino órfão bastante tímido que encontra por acaso um cãozinho simpático perdido na rua.Ao ver o bichinho de perto, descobre que não se trata de um vira-lata se dono, mas de Teddy, o animal de estimação de ninguém menos que o Presidente dos EUA. Determinado a fazer a coisa certa e ajudar o simpático Teddy a voltar para casa, em Washington, Danny e o cachorro caem na estrada. Dessa jornada surge uma inesperada e bonita amizade. Temperado por canções originais de Dolly Parton, este filme cativará toda a família!</sinopse>
+      <capa>E:\Videos\Organizados\Aventura\MeuQueridoViraLata.jpg</capa>
+      <uri>E:\Videos\Organizados\Aventura\Meu.Querido.Vira-Lata.DVDRip.XviD.Dual.Audio-3LT0N.avi</uri>
+      <type>Filme</type>
+      <status>Não assistido</status>
+      <categories>Aventura</categories>
+      <format>.avi</format>
+    </movie>
+    <movie>
+      <id>3</id>
+      <title>Eu receberia a pior notícia dos seus lindos lábios</title>
+      <sinopse></sinopse>
+      <capa>E:\Videos\Organizados\Brasileiro\Eureceberia.jpg</capa>
+      <uri>E:\Videos\Organizados\Brasileiro\Eu.Receberia.As.Piores.Noticias.Dos.Seus.Lindos.Labios.avi</uri>
+      <type>Filme</type>
+      <status>Não assistido</status>
+      <categories>Nacional</categories>
+      <format>.avi</format>
+    </movie>
+    <movie>
+      <id>4</id>
+      <title>Jogos Vorazes</title>
+      <sinopse>Neste filme uma luta mortal pela sobrevivência num futuro sombrio, encenada por crianças e transmitida ao vivo para todos os habitantes de uma nação construída nas ruínas de um lugar anteriormente conhecido como Estados Unidos.</sinopse>
+      <capa>E:\Videos\Organizados\Ação\JogosVorazes.jpg</capa>
+      <uri>E:\Videos\Organizados\Ação\Jogos.Vorazes.avi</uri>
+      <type>Filme</type>
+      <status>Não assistido</status>
+      <categories>Ação</categories>
+      <format>.avi</format>
+    </movie>
+  </row>
+</db>

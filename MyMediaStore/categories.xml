@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db>
+  <row>
+    <category>
+      <id>1</id>
+      <description>Comédia</description>
+    </category>
+    <category>
+      <id>2</id>
+      <description>Ação</description>
+    </category>
+    <category>
+      <id>3</id>
+      <description>Aventura</description>
+    </category>
+    <category>
+      <id>4</id>
+      <description>Ficção</description>
+    </category>
+    <category>
+      <id>5</id>
+      <description>Documentário</description>
+    </category>
+    <category>
+      <id>6</id>
+      <description>Terror</description>
+    </category>
+    <category>
+      <id>7</id>
+      <description>Drama</description>
+    </category>
+    <category>
+      <id>8</id>
+      <description>Nacional</description>
+    </category>
+  </row>
+</db>
